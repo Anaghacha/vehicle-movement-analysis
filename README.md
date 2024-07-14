@@ -114,7 +114,7 @@ We welcome contributions to enhance the functionality of this tool. To contribut
 
 - This has been done in collaboration with
 - Anagha Challa : https://github.com/Anaghacha
-- Anjali S Kumari :
+- Anjali S Kumari :https://github.com/AnjaliSKumari/
 - Sukanya Keshari :https://github.com/keshari21
 
 ## Acknowledgments
