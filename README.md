@@ -13,7 +13,7 @@ This MATLAB project provides a comprehensive video analysis tool designed for ex
 - [Steps Taken](#steps-taken)
 - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
+-
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -109,13 +109,14 @@ We welcome contributions to enhance the functionality of this tool. To contribut
     ```
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername) - Initial work
+- This has been done in collaboration with
+- Anagha Challa : https://github.com/Anaghacha
+- Anjali S Kumari :
+- Sukanya Keshari :https://github.com/keshari21
 
 ## Acknowledgments
 
