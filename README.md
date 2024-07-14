@@ -13,7 +13,6 @@ This MATLAB project provides a comprehensive video analysis tool designed for ex
 - [Steps Taken](#steps-taken)
 - [Example](#example)
 - [Contributing](#contributing)
--
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -122,4 +121,5 @@ We welcome contributions to enhance the functionality of this tool. To contribut
 
 - Inspiration and code snippets were taken from various sources, including MATLAB documentation and online tutorials.
 - Special thanks to the hackathon organizers for the opportunity to develop this project.
+- Special Thanks to put college coordinator Mr.Soumitra Keshari Nayak
 
